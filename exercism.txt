@@ -1,0 +1,9 @@
+exercism configure --token=c1699a1f-a08a-4a50-8065-853a21796e38
+You have configured the Exercism command-line client:
+
+Config dir:                       C:\Users\USER\AppData\Roaming\exercism
+Token:         (-t, --token)      c1699a1f-a08a-4a50-8065-853a21796e38
+Workspace:     (-w, --workspace)  C:\Users\USER\Exercism
+API Base URL:  (-a, --api)        https://api.exercism.io/v1
+
+exercism submit  E:\Exercism\python\acronym\acronym.py
